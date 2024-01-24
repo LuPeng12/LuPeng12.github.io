@@ -1,10 +1,6 @@
 # Webflux
 
 
-Spring WebFlux 是一个异步非阻塞式 IO 模型.
-
-<!--more-->
-
 # WebFlux
 
 ## 前置知识
